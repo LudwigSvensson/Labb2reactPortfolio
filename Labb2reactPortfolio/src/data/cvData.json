@@ -1,0 +1,69 @@
+{
+    "profile": [
+        {
+            "image":"/Images/Ludwig Rom.jpg",
+            "name": "LUDWIG SVENSSON",
+            "age": "27 år gammal",
+            "role":[
+                "Bartender",
+                "Hovmästare",
+                "Servitör"
+            ]
+            ,
+            "profileinfo":[
+              "Jag är en yrkesverksam restaurangarbetare som har mer än 6 års erfarenhet av att göra gäster nöjda och ge utmärkt service. "
+            ],
+            "skills":[
+                "B-körkort",
+                "Flytande på samtalsnivå i engelska",
+                "Mycket stresstålig",
+                "Mycket erfaren bartender"
+            ]
+        }
+    ],
+    "education": [
+      {
+        "institution": "Campus Varberg",
+        "degree": "Systemutvecklare.NET",
+        "date": "2023 - Nu"
+      },
+      {
+        "institution": "DBGY, Gymnasieskola",
+        "degree": "Räddningstjänst | Vård och omsorg",
+        "date": "2012 - 2015"
+      },
+      {
+        "institution": "Hagaskolan F-9, Grundskola",
+        "degree": "Grundskoleutbilding",
+        "date": "2001 - 2012"
+      }
+    ],
+    "workExperience": [
+      {
+        "position": "Arbetsledare",
+        "company": "Restaurang Solviken",
+        "date": "2020 - idag",
+        "responsibilities": [
+          "Rekrytering av servis & bar personal",
+          "Utbilda ny personal (servis & bar)",
+          "Inköp (främst till bar)",
+          "Arbeta i den dagliga driften",
+          "Hantera interna processer för att förbättra servicen",
+          "Menybyten",
+          "Administrativt (mail, schemaläggning, bokningsläge)"
+        ]
+      },
+      {
+        "position": "Bartender",
+        "company": "Stavkroa Hemsedal",
+        "date": "Deltid 2019 - 2020",
+        "responsibilities": [
+          "Rekrytering av servis & bar personal",
+          "Afterski bartender",
+          "Hjälpa till att utbilda ny personal (servis)",
+          "Preppa bar",
+          "Städa bar"
+        ]
+      }
+    ]
+  }
