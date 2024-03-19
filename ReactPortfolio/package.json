@@ -1,7 +1,6 @@
 {
-  "homepage": "https://ludwigsvensson.github.io/ReactPortfolio/",
+  "homepage": "https://LudwigSvensson.github.io/ReactPortfolio/",
   "name": "labb2reactportfolio",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
