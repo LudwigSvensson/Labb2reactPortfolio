@@ -17,6 +17,7 @@ export default function GitHubDemo(){
                             <h3>{post.name}</h3>
                             <h4>{post.description}</h4>
                             <a className="buttonbox" href={post.html_url} target="_blank" rel="noopener noreferrer">Open project</a>
+                            <hr />
                         </li>
                     ))
                 }
